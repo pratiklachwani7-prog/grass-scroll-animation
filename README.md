@@ -26,9 +26,9 @@ The first frame rendered on the canvas after all images are preloaded.
 
 A frame captured while scrolling through the animation sequence.
 
-![Middle Frame](screenshots/middle-frame1.png)
-![Middle Frame](screenshots/middle-frame2.png)
-![Middle Frame](screenshots/middle-frame3.png)
+![Middle Frame](screenshots/middle_frame1.png)
+![Middle Frame](screenshots/middle_frame2.png)
+![Middle Frame](screenshots/middle_frame3.png)
 
 
 ---
@@ -36,21 +36,21 @@ A frame captured while scrolling through the animation sequence.
 
 A frame captured while scrolling through the animation sequence.
 
-![Middle Frame](screenshots/middle-frame4.png)
-![Middle Frame](screenshots/middle-frame5.png)
-![Middle Frame](screenshots/middle-frame6.png)
+![Middle Frame](screenshots/middle_frame4.png)
+![Middle Frame](screenshots/middle_frame5.png)
+![Middle Frame](screenshots/middle_frame6.png)
 
 ---
 ## 🎞️ Middle Animation Frame 3
 
 A frame captured while scrolling through the animation sequence.
 
-![Middle Frame](screenshots/middle-frame7.png)
-![Middle Frame](screenshots/middle-frame8.png)
-![Middle Frame](screenshots/middle-frame9.png)
-![Middle Frame](screenshots/middle-frame10.png)
-![Middle Frame](screenshots/middle-frame11.png)
-![Middle Frame](screenshots/middle-frame12.png)
+![Middle Frame](screenshots/middle_frame7.png)
+![Middle Frame](screenshots/middle_frame8.png)
+![Middle Frame](screenshots/middle_frame9.png)
+![Middle Frame](screenshots/middle_frame10.png)
+![Middle Frame](screenshots/middle_frame11.png)
+![Middle Frame](screenshots/middle_frame12.png)
 
 ---
 
@@ -59,7 +59,7 @@ A frame captured while scrolling through the animation sequence.
 
 The ending frame of the scroll-controlled sequence.
 
-![Final Frame](screenshots/final-frame.png)
+![Final Frame](screenshots/final_frame.png)
 
 
 ---
